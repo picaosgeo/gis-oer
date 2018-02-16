@@ -1,4 +1,4 @@
-# 「GIS実習オープン教材」(試験公開版)
+# 「GIS実習オープン教材」(試験公開版林版)
 
 [![Build Status](https://travis-ci.org/gis-oer/gis-oer.svg?branch=master)](https://travis-ci.org/gis-oer/gis-oer)
 
